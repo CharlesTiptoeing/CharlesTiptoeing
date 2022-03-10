@@ -1,3 +1,5 @@
+##Hello, there 👋
+- 
 - 👋 Hi, I’m @CharlesTiptoeing
 - 👀 I’m interested in Games, Programming
 - 🌱 I’m currently learning material science and engineering (BA) at northwestern polytechnic university, Xian & Queen Mary University of London.
